@@ -1,13 +1,9 @@
 #include <iostream>
 #include <string>
-#include <cstring>
-#include <cmath>
-#include <sstream>
 
 using namespace std;
 
-int
-main ()
+int main ()
 {
   string input, number;
   int i, a, result;
